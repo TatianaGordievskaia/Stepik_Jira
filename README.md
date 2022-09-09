@@ -1,3 +1,8 @@
+<div>
+<img src="https://www.logo.wine/a/logo/Jira_(software)/Jira_(software)-Logo.wine.svg" **alt="Git" width="700" height="240"/>&nbsp;
+</div>
+
+
 # Stepik-Jira
 Курс "Jira: ведение задач на электронных досках"
 
